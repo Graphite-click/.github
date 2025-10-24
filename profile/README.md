@@ -1,1 +1,1 @@
-# [Graphite.click](https://graphite.click)
+# [Graphite](https://graphite.click)
